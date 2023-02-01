@@ -29,7 +29,7 @@ public:
            {
            cout << "Incorrect Password " << i << " Attempts Remaining: ";
            cin >> password;
-           if (password == "lukas123")
+           if (password == "password")
            {
                break;
            }
