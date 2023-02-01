@@ -23,7 +23,7 @@ public:
        cin.clear();
        getline(cin, password);
 
-        if (password != "lukas123")     //lukasbel711@gmail.com
+        if (password != "password")     //lukasbel711@gmail.com
        {
            for (int i = 3; i > 0; i--)
            {
